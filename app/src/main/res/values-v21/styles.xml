@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+        <!--  cor da barra da app -->
+        <item name="android:colorPrimary">@color/primary</item>
+        <!--   a variação escura para a barra de status  -->
+        <item name="android:colorPrimaryDark">@color/primary_dark</item>
+        <!--   tema dos controles da app, como botões, checkboxes -->
+        <item name="android:colorAccent">@color/accent</item>
+    </style>
+</resources>

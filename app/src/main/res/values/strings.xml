@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FutebolQuiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="cardview_conteudo_joinville">Joinville foi campeão da Série C em 2011 em uma campanha
+        impecável. Na final, venceu o CRB por 1x3 em Maceió e por 4x0 em Joinville.</string>
+    <string name="cardview_conteudo_cruzeiro">O Cruzeiro foi campeão da Série A em 2014, ganhando
+        com 5 rodadas de antecedência.</string>
+    <string name="cardview_conteudo_gremio">O Grêmio foi campeão do Mundial Interclubes em 1996, ganhando
+        do Ajax por um placar de 2x1.</string>
+    <string name="botao_falso">FALSO</string>
+    <string name="botao_verdade">VERDADE</string>
+    <string name="toast_errou">Errou!</string>
+    <string name="toast_acertou">Acertou</string>
+</resources>
