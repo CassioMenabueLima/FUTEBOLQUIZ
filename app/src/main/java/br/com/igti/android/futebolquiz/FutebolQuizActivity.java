@@ -21,8 +21,6 @@ public class FutebolQuizActivity extends Activity {
 
     private static final String KEY_INDICE = "indice";
 
-    private static final String PREF_PRIMEIRA_VEZ = "primeiraVez";
-
     private Button mBotaoVerdade;
     private Button mBotaoFalso;
     private TextView mConteudoCard;
