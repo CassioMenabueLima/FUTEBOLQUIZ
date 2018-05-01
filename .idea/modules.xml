@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FutebolQuiz.iml" filepath="$PROJECT_DIR$/FutebolQuiz.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/igti_android_futebolquiz.iml" filepath="$PROJECT_DIR$/igti_android_futebolquiz.iml" />
     </modules>
   </component>
 </project>
-
